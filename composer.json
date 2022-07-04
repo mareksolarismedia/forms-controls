@@ -1,21 +1,18 @@
 {
-	"name": "webchemistry/forms-controls",
-	"type": "library",
-	"description": "Components for nette forms",
-	"keywords": [
-		"nette",
-		"webchemistry",
-		"forms",
-		"components"
-	],
-	"autoload": {
-		"classmap": [
-			"src/"
-		]
-	},
-	"require": {
-		"php": ">=7.1",
-		"nette/forms": "^3.0"
-	},
-	"minimum-stability": "alpha"
+    "name": "solarismedia/forms-controls",
+    "type": "library",
+    "description": "Components for nette forms",
+    "keywords": [
+
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "php": ">=8.0",
+        "nette/forms": "^3.0"
+    },
+    "minimum-stability": "alpha"
 }
